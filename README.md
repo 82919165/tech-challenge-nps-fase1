@@ -42,3 +42,6 @@ reports/     figuras e material de apoio
 
 ## 7. Limitações e riscos
 *(preencher: regra de corte do NPS, vazamento de dados, causalidade x correlação)*
+
+## 8. Uso de IA
+O Claude (Anthropic) foi usado como tutor e apoio: estrutura inicial do repositório (pastas e modelo de README) e orientação de raciocínio durante o estudo. A análise, as decisões metodológicas, a interpretação dos resultados e as conclusões deste projeto são de autoria do aluno.
