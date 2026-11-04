@@ -12,7 +12,7 @@ Projeto da pós FIAP PosTech AI Scientist (Fase 1) — Ítalo Henriques.
 | Validação estatística | `notebooks/03_estatistica.ipynb` |
 | Figuras | `reports/figuras/` |
 | Apresentação (PowerPoint, para gestores) | `reports/apresentacao_nps.pptx` |
-| Vídeo executivo (≤ 5 min) | link e instruções em `reports/video.txt` |
+| Vídeo executivo (≤ 5 min, 4:15) | YouTube (não listado): https://youtu.be/Ee0Wc2aIxKk · Reserva (iCloud): https://www.icloud.com/iclouddrive/047tfONIaYHZswbapEO7-69ug · Detalhes em `reports/video.txt` |
 
 ## 1. Objetivo do projeto
 
